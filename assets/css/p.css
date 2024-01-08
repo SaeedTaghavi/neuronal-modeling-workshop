@@ -1,0 +1,17 @@
+.particle {
+    /* color: #fcfcfc; */
+    /* text-shadow: 2px 2px 3px #000; */
+    /* font-family: sans-serif; */
+    /* background: rgba(23, 66, 232, 1.0); */
+    /* background: fixed linear-gradient(to bottom right, rgba(23, 66, 232, 1.0), rgba(19, 25, 147, 1.0)); */
+
+}
+.network-background-canvas {
+    /* background: rgba(0,0,0,0.25); */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
